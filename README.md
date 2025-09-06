@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h1 align="center">Hi 👋, I'm Lavanya Palanivel</h1><br><h3 align="center">A passionate frontend developer from India</h3><br><br>
+Hi, I'm Lavanya Palanivel, a Computer Science Engineering student (2021–2025) passionate about Full-Stack Web Development and problem-solving.<br><br>🌱 Currently exploring MERN Stack & Backend Development<br><br>📚 Built projects like a Bookstore App and Heart Disease Prediction System<br><br>🚀 Interested in Software Engineering, Frontend Development, and Full-Stack roles<br>
 
 
 ## 🌐 Socials:
